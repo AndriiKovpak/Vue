@@ -1,0 +1,15 @@
+.ct-rounded-start {
+  border-radius: $space-6 0 0 $space-6;
+}
+
+.ct-rounded-end {
+  border-radius: 0 $space-6 $space-6 0;
+}
+
+.ct-rounded {
+  border-radius: $space-6 !important;
+}
+
+.ct-rounded-bottom {
+  border-radius: 0 0 16px 16px;
+}

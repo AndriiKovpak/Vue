@@ -1,0 +1,67 @@
+[
+  {
+    "sim_id": "2SHZzw==",
+    "timestamp": 1629197821509,
+    "entity": 5,
+    "threshold": 0.1,
+    "outage_hour": 35,
+    "residual": 0.24,
+    "availability": 0.969,
+    "replenishment_times": 14,
+    "cost_trips": 0.45,
+    "cost_inventory": 0.32,
+    "trip_saving": 2.38
+  },
+  {
+    "sim_id": "QgKNmQ==",
+    "timestamp": 1629197821509,
+    "entity": 5,
+    "threshold": 0.12,
+    "outage_hour": 20,
+    "residual": 0.28,
+    "availability": 0.954,
+    "replenishment_times": 14,
+    "cost_trips": 0.85,
+    "cost_inventory": 0.18,
+    "trip_saving": 2.34
+  },
+  {
+    "sim_id": "mZwtGw==",
+    "timestamp": 1629197821509,
+    "entity": 5,
+    "threshold": 0.15,
+    "outage_hour": 15,
+    "residual": 0.2,
+    "availability": 0.975,
+    "replenishment_times": 10,
+    "cost_trips": 0.7,
+    "cost_inventory": 0.36,
+    "trip_saving": 2.08
+  },
+  {
+    "sim_id": "k2THKA==",
+    "timestamp": 1629197821509,
+    "entity": 5,
+    "threshold": 0.18,
+    "outage_hour": 29,
+    "residual": 0.18,
+    "availability": 0.904,
+    "replenishment_times": 18,
+    "cost_trips": 0.5,
+    "cost_inventory": 0.18,
+    "trip_saving": 2.12
+  },
+  {
+    "sim_id": "hRi+tg==",
+    "timestamp": 1629197821509,
+    "entity": 5,
+    "threshold": 0.12,
+    "outage_hour": 20,
+    "residual": 0.2,
+    "availability": 0.988,
+    "replenishment_times": 19,
+    "cost_trips": 0.95,
+    "cost_inventory": 0.36,
+    "trip_saving": 2.3
+  }
+]
